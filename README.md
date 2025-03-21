@@ -129,7 +129,7 @@
 ## منابع
 
 
-[ دانلود نسخه اصلی  v1.3 PDF ](resources/v1.3.pdf)
+[ دانلود نسخه اصلی  v1.3 PDF ](docs/v1.3.pdf)
 
-[ دانلود نسخه اصلی  v1.4 PDF ](resources/v1.4.pdf)
+[ دانلود نسخه اصلی  v1.4 PDF ](docs/v1.4.pdf)
 
